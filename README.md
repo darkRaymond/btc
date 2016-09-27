@@ -4,6 +4,7 @@ Generate fake Bitcoin transactions and broadcast them to the Bitcoin network.
 Newest Version: 1.2.1
 
 Updates (24/09/2016):
+
 Fixed several connection error bugs.
 Fixed a bug where sometimes it wouldn't succesfully validate the transaction while boradcasting.
 Added the option to use Combined output overflow in the generated TX.
