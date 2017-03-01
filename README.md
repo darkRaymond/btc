@@ -1,4 +1,6 @@
-# BitTXGenerator
+# BitTXGenerator 
+
+#For Research And Educational Use Only. Contains MALWARE. 
 Generate fake Bitcoin transactions and broadcast them to the Bitcoin network.
 
 Newest Version: 1.2.1
